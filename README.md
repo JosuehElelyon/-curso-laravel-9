@@ -3,7 +3,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/especializati/setup-docker-laravel.git laravel9
+git clone https://github.com/JosuehElelyon/-curso-laravel-9.git
 ```
 
 ```sh
